@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SystemInfoApp/SystemInfoApp.csproj" />
+  <Project Path="SystemInfoLibrary/SystemInfoLibrary.csproj" />
+  <Project Path="SystemInfoSecondApp/SystemInfoSecondApp.csproj" />
+</Solution>
